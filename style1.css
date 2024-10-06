@@ -9,10 +9,14 @@ a {
     
 }
 
-img {
+header img {
+    width: 40px;
+}
+
+main img {
     margin-top: 50px;
-    border: 5px solid rgb(131, 152, 171);
-    border-radius: 10px;
+    border-radius: 50px;
+    border: 3px solid rgb(167, 162, 107);
 }
 
 .ipi {
@@ -27,6 +31,13 @@ h1 {
     font-size: 55px;
     text-align: center;
     color: aliceblue;
+}
+
+.libbi {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 2001px;
 }
 
 
