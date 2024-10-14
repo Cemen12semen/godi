@@ -15,7 +15,7 @@ header p {
     margin-bottom: 25px;
 }
 
-a {
+header a {
     border: 4px solid black;
     border-radius: 15px;
     border-bottom-left-radius: 4px;
@@ -24,6 +24,11 @@ a {
     margin: 7px;
     margin-bottom: 60px;
     text-decoration: none;
+}
+
+main a {
+    text-decoration: none;
+    color: rgb(4, 4, 145);
 }
 
 h1 {
