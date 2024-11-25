@@ -27,4 +27,5 @@ h1 {
 .p {
     font-size: 23px;
     color: rgb(186, 222, 186);
+    text-align: center;
 }
