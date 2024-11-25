@@ -4,11 +4,6 @@ body {
     background-size:100%;
 }
 
-header {
-    background-color: brown;
-    height: 30px;
-}
-
 header img {
     margin-top: 7px;
 }
